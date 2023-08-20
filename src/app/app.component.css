@@ -1,0 +1,10 @@
+.cards_mus{
+    width: 20%;
+    height: min-content;
+}
+.cards{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

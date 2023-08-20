@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: center;
+   
+    margin: 10px;
+}
+.pic{
+    max-width: 50%;
+}
+.author{
+    text-align: center;
+}
